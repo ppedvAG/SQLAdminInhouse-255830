@@ -1,0 +1,1 @@
+https://learn.microsoft.com/de-de/sql/database-engine/availability-groups/windows/domain-independent-availability-groups?view=sql-server-ver17
